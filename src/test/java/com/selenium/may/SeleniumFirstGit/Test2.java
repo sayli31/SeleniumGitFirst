@@ -8,7 +8,7 @@ public class Test2 {
 		String name ="JAVA";
 		String city ="Pune";
 		String collgname ="";
-		int id = 1;
+		int id = 100;
 		
 	}
 
