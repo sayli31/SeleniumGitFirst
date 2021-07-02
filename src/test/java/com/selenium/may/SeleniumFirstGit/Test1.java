@@ -8,7 +8,16 @@ public class Test1 {
 		
 		int j =100;
 		
-		String name = "";
+		String name = "";		
+		String name1 ="";
+		String id1 ="";
+		
+		// browser lunch
+		// login functionality
+		
+	
+		
+		
 		
 	}
 
