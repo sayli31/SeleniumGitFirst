@@ -10,6 +10,7 @@ public class Test2 {
 		String collgname ="";
 		int k =10;
 		int id = 100;
+		System.out.println("ID" +i);
 		
 		
 
