@@ -12,7 +12,14 @@ public class Test2 {
 		int k =10;
 
 		int id = 100;
+		
+		
 
+		
+	}
+	
+	public void m1()
+	{
 		
 	}
 
