@@ -8,6 +8,9 @@ public class Test1 {
 		
 		int j =100;
 		
+		
+		string name ="";
+		
 	}
 
 }
